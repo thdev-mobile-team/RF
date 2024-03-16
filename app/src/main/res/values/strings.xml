@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RF</string>
+    <string name="recommend_dishes_text1">Recommend dishes based on user preferences.</string>
+    <string name="recommend_dishes_text2">This is just a suggestion support tool; it may not be accurate..</string>
+
+</resources>
